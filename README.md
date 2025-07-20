@@ -43,7 +43,6 @@ The application will:
 
 The application uses the following default configurations:
 
-- **API Endpoint**: `https://proxyprice.kgw.guruestate.com/predict/sg/residential/sales`
 - **Unit Types**: 2-room, 3-room, 4-room
 - **Postcodes**: 469970-469976
 - **Property Type**: Condo
