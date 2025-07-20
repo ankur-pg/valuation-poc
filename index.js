@@ -3,7 +3,7 @@
 import axios from 'axios'
 import https from 'https'
 
-const API_URL = 'https://proxyprice.kgw.guruestate.com/predict/sg/residential/sales'
+const API_URL = 'PP_API'
 const UNIT_TYPES = ['2-room', '3-room', '4-room']
 const POSTCODES = ['469970', '469971', '469972', '469973', '469974', '469975', '469976']
 
